@@ -78,7 +78,7 @@ The objective is to enable data-driven climate research and forecasting.
 4. Configure MongoDB connection in `config.yaml`
 5. Run the ETL pipeline:
    ```sh
-   python run_pipeline.py
+   python gcs_to_mongo_pipeline.py
    ```
 
 ## License
