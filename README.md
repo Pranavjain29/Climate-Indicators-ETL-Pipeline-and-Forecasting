@@ -1,4 +1,4 @@
-# Climate Indicators ETL Pipeline and Predictive Modeling
+# Climate Indicators ETL Pipeline and Forecasting
 
 ## Project Overview
 This project implements a comprehensive cloud-based ETL (Extract, Transform, Load) pipeline for climate data analysis and prediction. The system automates the collection, cleaning, and aggregation of five key climate indicators:
